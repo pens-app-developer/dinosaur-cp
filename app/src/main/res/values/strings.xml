@@ -1,0 +1,129 @@
+<resources>
+    <!-- 恐竜ハンター ～ギャオギャオビーム～ -->
+    <string name="app_name">恐竜ハンター</string>
+
+    <!-- AdMob App ID: ca-app-pub-6484092924300311~4510341137 -->
+    <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+    <string name="ad_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- Ad Unit ID banner: ca-app-pub-6484092924300311/5034027262 -->
+    <!-- Sample Ad Unit ID banner: ca-app-pub-3940256099942544/6300978111 -->
+    <string name="ad_unit_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- Ad Unit ID interstitial: ca-app-pub-6484092924300311/7277047224 -->
+    <!-- Sample Ad Unit ID interstitial: ca-app-pub-3940256099942544/1033173712 -->
+    <string name="ad_unit_id_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="title_stage_close">？？？</string>
+    <string name="title_stage_1">STAGE 1</string>
+    <string name="title_stage_2">STAGE 2</string>
+    <string name="title_stage_3">STAGE 3</string>
+    <string name="title_stage_4">STAGE 4</string>
+    <string name="title_stage_5">STAGE 5</string>
+    <string name="title_stage_6">STAGE 6</string>
+
+    <string name="stage_close">？？？</string>
+    <string name="stage_1">ヴェロキラプトル</string>
+    <string name="stage_2">プテラノドン</string>
+    <string name="stage_3">トリケラトプス</string>
+    <string name="stage_4">モササウルス</string>
+    <string name="stage_5">スピノサウルス</string>
+    <string name="stage_6">ティラノサウルス</string>
+
+    <string name="stage_view_ad">※ステージ開始前に広告が表示されます</string>
+
+    <string name="credit">クレジット</string>
+    <string name="credit_in_text">
+        企画・開発\nP.EN.S co., Ltd.
+    </string>
+
+    <string name="score_list">スコア履歴</string>
+    <string name="score">スコア</string>
+    <string name="score_1">1st</string>
+    <string name="score_2">2nd</string>
+    <string name="score_3">3rd</string>
+
+    <string name="best_score_title">ベストスコア：</string>
+    <string name="now_score_title">今回のスコア：</string>
+    <string name="new_record">新記録</string>
+
+    <string name="tutorial">チュートリアル</string>
+    <string name="tutorial_1">指からビームを飛ばして攻撃しよう\n\n恐竜にやられる前に撃退だ！</string>
+    <string name="tutorial_2">上のゲージをなくせば撃退成功\n\n恐竜に負けないように頑張ろう</string>
+    <string name="tutorial_3">下のゲージが溜まったら撃退失敗\n\n襲われちゃうから気をつけて</string>
+    <string name="tutorial_4">いろんな恐竜が登場するよ\n\n君の知ってるアイツはいるかな？</string>
+
+    <string name="collection">恐竜について</string>
+
+    <string name="collection_japanese_name">【和名】</string>
+    <string name="collection_scientific_name">【学名】</string>
+    <string name="collection_geological_time">【地質時代】</string>
+    <string name="collection_length">【全長】</string>
+    <string name="collection_weight">【推定体重】</string>
+    <string name="collection_explanation">【説明】</string>
+
+    <string name="collection_japanese_name_1">ヴェロキラプトル</string>
+    <string name="collection_scientific_name_1">Velociraptor</string>
+    <string name="collection_geological_time_1">約7,500万 - 7,100万年前\n（中生代白亜紀後期）</string>
+    <string name="collection_length_1">約2メートル</string>
+    <string name="collection_weight_1">約15キロ</string>
+    <string name="collection_explanation_1_1">ヴェロキラプトル（学名：Velociraptor）は、約7,500万- 約7,000万年前（中生代白亜紀後期）の東アジアにあった大陸に生息していた小型肉食恐竜。獣脚類に属す。</string>
+    <string name="collection_explanation_1_2">全長（頭胴長+尾長）約2.07メートル、腰高約0.5メートル、推定体重最大15キログラム程度で、頭胴長におけるその大きさはおおよそ七面鳥程度、コヨーテ程度と表現される。体格は小さく体型はほっそりとしており、頭蓋骨は他に比してかなり大きい。吻部が反り上がる一方で眼窩の突出が無く、むしろ、凹んでいて全体に弓形の形状を示す。また、最大頭骨長25センチメートルと非常に長く直線的であり、これらの特徴によって近縁種と明確に区別される。本種の際立った特徴として後肢に大きな鉤爪を具えており、狩りの際、獲物に致命傷を与えるのに用いられたとされるが、その使用方法の実際については切り裂き型と刺突型で説が分かれている。現在だと鉤爪/シックルクローは、刺突や木登りにも使われたものの、やはり斬撃を主な用途としていたとされている。また、走る速度は最高で60km/hを超える。</string>
+    <string name="collection_source_1">ソース: 「ヴェロキラプトル」『フリー百科事典 ウィキペディア日本語版』。2020年7月27日 (月) 09:15 UTC、URL: https://ja.wikipedia.org</string>
+
+    <string name="collection_japanese_name_2">プテラノドン</string>
+    <string name="collection_scientific_name_2">Pteranodon</string>
+    <string name="collection_geological_time_2">約8,930万 - 7,400万年前\n（中生代白亜紀後期）</string>
+    <string name="collection_length_2">翼開長：約7メートル</string>
+    <string name="collection_weight_2">約20キロ</string>
+    <string name="collection_explanation_2_1">プテラノドン（Pteranodon、\'歯のない翼\'の意）は、中生代白亜紀後期（約8,930万 ~ 7,400万年前）（詳しくは、中生代白亜紀後期前期- 同後期、コニアク階- カンパニア階。年代の詳細は「地質時代」で確認可能）に生息していた翼竜の一種（1属）。</string>
+    <string name="collection_explanation_2_2">翼開長はロンギケプス種で約7 – 8メートル、ステルンベルギ種では約9メートルもの大きさになるが、揚力を稼き出すための翼は羽毛ではなく皮膚と同じ組織でできている、膜状の翼である皮翼で、骨格はいたって軽量な構造体となっている。推定体重は15 – 20キログラムと中型犬と同程度でしかなく、力強く羽ばたくために必要な筋肉量を付着させ得る骨表面のスペースは鳥類ほど多くない。それゆえに、昔の映画でしばしば描写されたような、人間を鷲掴みにして空中に舞い上がるだけの力は無かったと考えられる。同様に、後肢の構造に大きな動物を押さえ込むような力強さがあったようには見えず、地上での移動に際して前肢の3本指とともに四つ足歩行をするのに用いられる程度のものだったと推測される。これで人間ほどの重量のある物体を吊り上げる事は、困難である。</string>
+    <string name="collection_source_2">ソース: 「プテラノドン」『フリー百科事典 ウィキペディア日本語版』。2020年9月26日 (土) 07:10 UTC、URL: https://ja.wikipedia.org</string>
+
+    <string name="collection_japanese_name_3">トリケラトプス</string>
+    <string name="collection_scientific_name_3">Triceratops</string>
+    <string name="collection_geological_time_3">約6,800万 - 6,600万年前\n（中生代白亜紀末期）</string>
+    <string name="collection_length_3">約9メートル</string>
+    <string name="collection_weight_3">約12トン</string>
+    <string name="collection_explanation_3_1">トリケラトプス (Triceratops) は、中生代白亜紀後期（マーストリヒチアン期）の、現在の北米大陸に生息した植物食恐竜の一属。</string>
+    <string name="collection_explanation_3_2">全長約9メートル、四足歩行。現在の北米にあたる地域に生息した大型で、最も後期に登場した角竜である。闘争の際にはこの角を用いたと推測される。頭骨の半分を占める、後頭部から首の上にまで伸びたフリルも特徴のひとつ。口先は鳥のくちばしのように尖っている。\nトリケラトプスは、同時期同地域に生息したティラノサウルスと同様に、高い人気と知名度を誇る恐竜である。トリケラトプスはティラノサウルスにとって捕食対象であったと考えられる（全ての化石生物と同じように、この二属の生態も推測の域を出ず、映画や絵本、あるいはマンガの中で描かれるような闘争を行ったかどうかは不明である）。ただし、これは護身用の武器として使われた可能性を否定するものではない。\n完全な骨格はまだ見つかっていないが、1887年に記載されて以来、毎年のように発見された多数の部分的な標本から、一般にも知られるようになった。</string>
+    <string name="collection_source_3">ソース: 「トリケラトプス」『フリー百科事典 ウィキペディア日本語版』。2020年8月16日 (日) 07:42 UTC、URL: https://ja.wikipedia.org</string>
+
+    <string name="collection_japanese_name_4">モササウルス</string>
+    <string name="collection_scientific_name_4">Mosasaurus</string>
+    <string name="collection_geological_time_4">約7,000万 - 6,600万年前\n（中生代後期白亜紀後期）</string>
+    <string name="collection_length_4">約17メートル</string>
+    <string name="collection_weight_4">約14トン</string>
+    <string name="collection_explanation_4_1">モササウルス（学名: Mosasaurus）は、絶滅した水生有鱗目のモササウルス科の属。約7,000 – 6,600万年前にあたる後期白亜紀の頂点捕食者で、マーストリヒチアンの間に生息し、ヨーロッパ西部と北アメリカに分布した。日本やニュージーランドに生息した可能性もある。</string>
+    <string name="collection_explanation_4_2">モササウルスはモササウルス科の最後の属の1つで、最大の属の1つでもあった。大半のモササウルス科爬虫類と同様に、モササウルスの四肢はヒレ足へ進化し、前肢のヒレは後肢のヒレよりも大型であった。最大の種は全長17メートルに達したモササウルス・ホフマニであり、近縁なティロサウルスやハイノサウルスをわずかに上回っている。モササウルスは近縁な他のモササウルス科より頑強でもあり、下顎は頭骨に固く附随していた。体型は上下に深い樽型で、目は顕著に大きく、立体視はあまりできず、嗅球も発達してはいなかった。モササウルスは浅海に生息して魚類・ウミガメ・アンモナイト・小型モササウルス科爬虫類・鳥類・翼竜・首長竜を捕食していたと専門家は考えている。モササウルスは潜水も可能であったが、彼らが深海へ進出した証拠はない。</string>
+    <string name="collection_source_4">ソース: 「モササウルス」『フリー百科事典 ウィキペディア日本語版』。2020年9月5日 (土) 06:31 UTC、URL: https://ja.wikipedia.org</string>
+
+    <string name="collection_japanese_name_5">スピノサウルス</string>
+    <string name="collection_scientific_name_5">Spinosaurus</string>
+    <string name="collection_geological_time_5">約1億1,200万 - 9,350万年前\n（中生代白亜紀前期から後期）</string>
+    <string name="collection_length_5">約18メートル</string>
+    <string name="collection_weight_5">約6トン</string>
+    <string name="collection_explanation_5_1">スピノサウルス（Spinosaurus）は、中生代白亜紀前期から後期（約1億1,200万 - 9,350万年前）の現アフリカ大陸北部に生息していた獣脚類（魚食・肉食恐竜）。</string>
+    <string name="collection_explanation_5_2">バリオニクスやスコミムス等の近縁種から想像されるその頭部はやや細長く、現生の魚食性ワニであるインドガビアルを思わせる。歯も、魚食性ワニのような“鱗が張り付きにくい表面構造のもの”に類似しており、魚を主食としていた可能性が高い。近年の化石に対するCT検査では鼻腔には細孔が無数にある。ワニと同様に、この細孔に水の動きを感知するための感覚器が集中していたと推測され、このことから主に水辺～水中で獲物を得ていたと思われる。この一方、乾季で川が干上がり魚の取れない時期などの機会があれば、現生のワニやクマのように魚以外の獲物（他の恐竜やその死体など）も食料としていたと考えられる（事実、近縁種で同じく魚食性が強かったと思われるバリオニクスの化石では、消化器官にあたる部位からイグアノドンの未消化の骨が見つかっている）。オンコプリスティス（軟骨魚類ノコギリエイ目）の化石と共に発見されることが多く、2005年に発見された化石には同種の骨の破片が確認されており、両者が捕食者、被捕食者の関係にあったと考えられている。</string>
+    <string name="collection_source_5">ソース: 「スピノサウルス」『フリー百科事典 ウィキペディア日本語版』。2020年10月7日 (水) 06:27 UTC、URL: https://ja.wikipedia.org</string>
+
+    <string name="collection_japanese_name_6">ティラノサウルス</string>
+    <string name="collection_scientific_name_6">Tyrannosaurus</string>
+    <string name="collection_geological_time_6">約6,800万 - 6,600万年前\n（中生代白亜紀末期）</string>
+    <string name="collection_length_6">約13メートル</string>
+    <string name="collection_weight_6">約9トン</string>
+    <string name="collection_explanation_6_1">ティラノサウルス（学名：genus Tyrannosaurus）は、約6,800万- 約6,600万年前（中生代白亜紀末期マストリヒシアン）の北アメリカ大陸に生息していた肉食恐竜。大型獣脚類の1属である。</string>
+    <string name="collection_explanation_6_2">ティラノサウルスを代表とするティラノサウルス科は成体と幼体〜亜成体における身体的特徴の差異が大きかったことで知られている。小型のティラノサウルス科恐竜とされていたナノティラヌスの頭蓋骨には、幼体に特徴的な線維骨構造や頭骨の未癒合などの特徴が見られ、1999年にトーマス・カーがティラノサウルスの幼体であると主張した。ナノティラヌスは華奢でナイフ状の尖った歯を有しており、頑強な体格と太い歯を持つ成体のティラノサウルスと全く形態が異なる。このことから、幼体や亜成体のティラノサウルスは成体とは異なる生態的地位に立っていたことになる。全長6メートル前後の亜成体、通称“ジェーン”などは、オルニトミモサウリアに匹敵する程の俊足(時速50km)を誇り、アケロラプトルやパキケファロサウルスのような小型〜中型恐竜などを襲っていた可能性が高い。また時には大型のハドロサウルス科へも狩りの矛先を向けていたとされ、とあるハドロサウルス科の化石には亜成体の歯型が明確に残されていた。この事は、傍目から見れば貧弱そうな顎と歯を持つ亜成体であっても、見かけ以上の咬合力(噛む力)を持っていた事を示している。</string>
+    <string name="collection_source_6">ソース: 「ティラノサウルス」『フリー百科事典 ウィキペディア日本語版』。2020年10月13日 (火) 10:22 UTC、URL: https://ja.wikipedia.org</string>
+
+    <string name="copyright">© 2020 P.EN.S co., Ltd.</string>
+    <string name="title_activity_collection">CollectionActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">恐竜一覧</string>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.p_en_s.dinosaurhuntergaogaobeam.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_gallery_1"
+            app:destination="@id/nav_gallery_1" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_gallery_2"
+            app:destination="@id/nav_gallery_2" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_gallery_3"
+            app:destination="@id/nav_gallery_3" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_gallery_4"
+            app:destination="@id/nav_gallery_4" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_gallery_5"
+            app:destination="@id/nav_gallery_5" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_gallery_6"
+            app:destination="@id/nav_gallery_6" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery_1"
+        android:name="com.p_en_s.dinosaurhuntergaogaobeam.ui.gallery.GalleryFragment"
+        android:label="@string/stage_1"
+        tools:layout="@layout/fragment_gallery">
+        <argument
+            android:name="stageId"
+            android:defaultValue="1"
+            app:argType="integer" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery_2"
+        android:name="com.p_en_s.dinosaurhuntergaogaobeam.ui.gallery.GalleryFragment"
+        android:label="@string/stage_2"
+        tools:layout="@layout/fragment_gallery" >
+        <argument
+            android:name="stageId"
+            android:defaultValue="2"
+            app:argType="integer"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery_3"
+        android:name="com.p_en_s.dinosaurhuntergaogaobeam.ui.gallery.GalleryFragment"
+        android:label="@string/stage_3"
+        tools:layout="@layout/fragment_gallery" >
+        <argument
+            android:name="stageId"
+            android:defaultValue="3"
+            app:argType="integer"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery_4"
+        android:name="com.p_en_s.dinosaurhuntergaogaobeam.ui.gallery.GalleryFragment"
+        android:label="@string/stage_4"
+        tools:layout="@layout/fragment_gallery" >
+        <argument
+            android:name="stageId"
+            android:defaultValue="4"
+            app:argType="integer"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery_5"
+        android:name="com.p_en_s.dinosaurhuntergaogaobeam.ui.gallery.GalleryFragment"
+        android:label="@string/stage_5"
+        tools:layout="@layout/fragment_gallery" >
+        <argument
+            android:name="stageId"
+            android:defaultValue="5"
+            app:argType="integer"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery_6"
+        android:name="com.p_en_s.dinosaurhuntergaogaobeam.ui.gallery.GalleryFragment"
+        android:label="@string/stage_6"
+        tools:layout="@layout/fragment_gallery" >
+        <argument
+            android:name="stageId"
+            android:defaultValue="6"
+            app:argType="integer"/>
+    </fragment>
+
+</navigation>
